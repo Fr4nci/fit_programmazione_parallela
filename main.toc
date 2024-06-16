@@ -1,0 +1,7 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduzione}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Il multi-threading}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Multithreading e statistica: un buon connubio}{3}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Programmazione parallela}{5}{chapter.2}%
+\contentsfinish 
